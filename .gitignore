@@ -1,0 +1,9 @@
+venv/
+.idea
+.idea/
+.idea/*
+settings.py
+*.djcache
+.evn
+static/*
+static/
